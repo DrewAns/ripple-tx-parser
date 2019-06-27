@@ -1,0 +1,7 @@
+[package]
+name = "ripple-tx-parser"
+version = "0.1.0"
+authors = ["Drew Ansbacher <dansbacher@Salt-100144.local>"]
+edition = "2018"
+
+[dependencies]
